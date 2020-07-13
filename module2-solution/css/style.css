@@ -12,8 +12,11 @@ h2{
 	margin-bottom: 0px;
 	border: 1px solid black;
 	float: right;
-	padding: 15px;
+	padding: 8px;
 	font-size: 125%;
+	overflow: auto;
+	width: 150px;
+	text-align: center;
 }
 
 section {
